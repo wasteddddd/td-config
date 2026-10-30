@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "minVersion": "",
-  "message": { "id": "", "ru": "", "uk": "", "en": "" },
+  "message": { "id": "test1", "ru": "Проверка канала", "uk": "Перевірка каналу", "en": "Channel test" },
   "disabledModes": [],
   "disabledLevels": [],
   "eventLevels": []
